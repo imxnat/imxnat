@@ -2,7 +2,8 @@
 
 ![N|Solid](https://i.imgur.com/RnPEAjo.jpg)
 
-### I'm a System Engineer
+### I'm a System Engineer 💻
+***
 - 🔭 I’m currently working on projects with HTML, CSS, JavaScript and Reactjs.
 - 🌱 I’m currently learning Reactjs enviroment tools and frameworks.
 - ⚡ I'm looking forward to get better on how to make the web more accesible for all kind of users.
